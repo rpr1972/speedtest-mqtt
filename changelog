@@ -1,0 +1,8 @@
+1.1
+
+* Added remote host check for availability, to avoid printing one message error per worker in case of connection errors.
+* Allow using host names when setting HOST_ADDR and MQTT_ADDR.
+  
+1.0
+
+* Initial release
