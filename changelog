@@ -1,3 +1,7 @@
+1.2
+
+* Added routine to check for updates every 6 hours.
+
 1.1
 
 * Added remote host check for availability, to avoid printing one message error per worker in case of connection errors.
