@@ -1,6 +1,12 @@
+1.3
+
+* Added jitter test.
+* Added sensor to report jitter results.
+
 1.2
 
 * Added routine to check for updates every 6 hours.
+* Addes sensor to show software versions - installed and latest available
 
 1.1
 
