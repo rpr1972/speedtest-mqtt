@@ -1,7 +1,6 @@
 1.4
 
-* Changed the MQTT topic used to announce software updates, due to messages regarding duplicate IDs in Home Assistant.
-  If you find such messages, delete the device - it will be recreated again.
+* Changed the MQTT topic used to announce software updates.
 * Changed MQTT client error message to be more informative.
 
 1.3
