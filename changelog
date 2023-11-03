@@ -1,3 +1,7 @@
+1.5
+
+* Changed some global variables for structs, improving safety.
+
 1.4
 
 * Changed the MQTT topic used to announce software updates.
