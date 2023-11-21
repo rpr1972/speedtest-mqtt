@@ -1,5 +1,10 @@
 ##### CLIENT #####
 
+1.6
+
+* Code refactoring to eliminate remaining global variables.
+* Add check to avoid rare division by zero error.
+
 1.5
 
 * Changed some global variables for structs, improving safety.
