@@ -1,5 +1,9 @@
 ##### CLIENT #####
 
+1.7
+
+* Corrected small bug in the connection status verification code.
+
 1.6
 
 * Code refactoring to eliminate remaining global variables.
