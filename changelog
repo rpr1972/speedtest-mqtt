@@ -1,5 +1,9 @@
 ##### CLIENT #####
 
+1.8
+
+* Change MQTT QoS priority of messages containing the results, from 0 to 2.
+
 1.7
 
 * Corrected small bug in the connection status verification code.
