@@ -1,5 +1,9 @@
 ##### CLIENT #####
 
+1.9
+
+* Introduction of new variable MQTT_PREFIX, allowing multiple instances to connect to the same MQTT server, and all the logic behind it.
+
 1.8
 
 * Change MQTT QoS priority of messages containing the results, from 0 to 2.
