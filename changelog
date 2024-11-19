@@ -1,5 +1,10 @@
 ##### CLIENT #####
 
+1.10
+
+* Small code refactoring to optimize string manipulation on the code introduced in version 1.9.
+* Changed the algorithm for checking new sotware version.
+
 1.9
 
 * Introduction of new variable MQTT_PREFIX, allowing multiple instances to connect to the same MQTT server, and all the logic behind it.
