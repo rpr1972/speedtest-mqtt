@@ -1,9 +1,14 @@
 ##### CLIENT #####
 
+1.11
+
+* Introduction of new variable LAYER2, enabling the user to choose between layer2 and layer3 statistics. See documentation on Docker Hub for details.
+* Small code refactoring.
+
 1.10
 
 * Small code refactoring to optimize string manipulation on the code introduced in version 1.9.
-* Changed the algorithm for checking new sotware version.
+* Changed the algorithm for checking new software version.
 
 1.9
 
