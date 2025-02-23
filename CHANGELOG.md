@@ -53,4 +53,14 @@
   
 ## 1.0
 
-* Initial release
+* Initial release.
+
+# SERVER
+
+## 1.1
+
+* Improvements in handling connection errors.
+
+## 1.0
+
+* Initial release.
