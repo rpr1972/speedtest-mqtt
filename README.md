@@ -57,3 +57,5 @@ Both images create a log file in the container's "/log" directory. To have acces
 ## Docker image
 
 To get the image, please go to https://hub.docker.com/repository/docker/robrosa/speedtest
+
+
