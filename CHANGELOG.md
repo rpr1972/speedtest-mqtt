@@ -1,5 +1,11 @@
 # CLIENT
 
+## 1.12
+
+* Changed the way jitter is calculated: now it uses standard deviation.
+* Small code refactoring.
+* Updated ubuntu docker image.
+  
 ## 1.11
 
 * Introduction of new variable LAYER2, enabling the user to choose between layer2 and layer3 statistics. See documentation on Docker Hub for details.
