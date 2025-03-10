@@ -1,3 +1,4 @@
+![Project Logo](https://github.com/rpr1972/speedtest-mqtt/blob/main/logo.png)
 # Speed test integration with Home Assistant through MQTT
 
 This image provides the ability to run speed tests and send results to Home Assistant via MQTT. It's important to note that this approach <u>does not</u> use **Okla's Speedtest** servers in any way: turns out "speed test" is a broad way of saying "network bandwidth test" and the name of a piece of sotware at the same time. So, this integration uses its own client and server. The downside of this is that you have to host the server yourself. But, considering the broad offer of cloud providers that have free layers of service, it should be no problem to host your own speed test server - in fact, this aproach will give you more accurate results, since (probably) you will be the only one using it.
