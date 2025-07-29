@@ -1,5 +1,9 @@
 # CLIENT
 
+## 1.13
+
+* Including code to check for HTTP status of Github servers when looking for updates.
+
 ## 1.12
 
 * Changed the way jitter is calculated: now it uses standard deviation.
